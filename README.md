@@ -100,20 +100,23 @@ python src/train.py
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white)
 ![gTTS](https://img.shields.io/badge/gTTS-FFDD00?style=for-the-badge&logo=google&logoColor=black)
 ![pyttsx3](https://img.shields.io/badge/pyttsx3-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-
-
+## 📱 Application UI 
+![Demonstration](https://raw.githubusercontent.com/rahul15-manch/ASL-Sign-Prediction/main/0011.png)
+## 🟢 Output 
+![Output](https://raw.githubusercontent.com/rahul15-manch/ASL-Sign-Prediction/refs/heads/main/0012.png)
 
 ## 👨‍💻 **Authors**
 
 ### 🌐 Connect with us  
-## 👥 Team Members  
+---
+#### 👥 Team Members  
 
 | Name | LinkedIn |
 |------|----------|
 | **Rahul Manchanda** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-manchanda-3959b120a/) |
 | **Tanishka** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-mukhi09/) |
 | **Kashish** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-rana-6116691b5/) |
-| **Mayank** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gaur-dev/) |
+
 
 
 
