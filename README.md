@@ -1,4 +1,5 @@
 #  🖐️ **ASL Sign Language Recognition**
+## 💡 Overview
 
 A deep learning-based project to recognize American Sign Language (ASL) letters from images.
 Built with TensorFlow, OpenCV, and Streamlit, this app allows users to upload an image of a hand sign and get a real-time prediction.
