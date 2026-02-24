@@ -9,6 +9,7 @@ scipy
 opencv-python-headless
 gTTS
 pyttsx3==2.90
+kagglehub
 
 
 
